@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+openai>=1.0.0
+python-multipart
+pypdf
+sqlalchemy
+psycopg2-binary
